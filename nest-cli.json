@@ -10,7 +10,7 @@
   "monorepo": true,
   "root": "apps/greenshop-api",
   "projects": {
-    "nestar-api": {
+    "greenshop-api": {
       "type": "application",
       "root": "apps/greenshop-api",
       "entryFile": "main",
@@ -19,7 +19,7 @@
         "tsConfigPath": "apps/greenshop-api/tsconfig.app.json"
       }
     },
-    "nestar-batch": {
+    "greenshop-batch": {
       "type": "application",
       "root": "apps/greenshop-batch",
       "entryFile": "main",
